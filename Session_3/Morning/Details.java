@@ -1,3 +1,5 @@
+package Session_3.Morning;
+
 public class Details {
     static void  printDetails(String name,String city, String hobby){
         System.out.println(

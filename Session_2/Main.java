@@ -1,3 +1,5 @@
+package Session_2;
+
 public class Main{
     
     
@@ -15,19 +17,6 @@ public class Main{
     
     
     public static void main(String[] args) {
-        //System.out.println("Hi there, HOW ARE YOU");
-       
-
-        //  boolean booleanVar;   
-        //  byte byteVar;         
-        //  short shortVar;       
-        //  int intVar;           
-        //  long longVar;         
-        //  float floatVar;       
-        //  double doubleVar;     
-        //  char charVar;         
-        //  String stringVar;     
-
 
 
         System.out.println("boolean: "+ booleanVar);

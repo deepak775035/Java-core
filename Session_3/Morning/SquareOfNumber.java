@@ -1,3 +1,5 @@
+package Session_3.Morning;
+
 public class SquareOfNumber {
 
     static int numSqr(int x){

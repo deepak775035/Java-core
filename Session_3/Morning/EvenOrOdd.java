@@ -1,3 +1,5 @@
+package Session_3.Morning;
+
 import java.util.Scanner;
 
 public class EvenOrOdd {
