@@ -1,4 +1,4 @@
-package session10;
+package session10.classtask;
 import java.util.Arrays;
 import java.util.Scanner;
 

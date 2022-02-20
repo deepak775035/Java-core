@@ -1,4 +1,4 @@
-package session10;
+package session10.classtask;
 
 interface Shape {
     default void draw() {
