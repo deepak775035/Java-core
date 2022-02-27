@@ -1,4 +1,4 @@
-package session15;
+package session15.Normal;
 
 
 class UsingThreadClass extends Thread{
